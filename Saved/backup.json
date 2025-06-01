@@ -1,0 +1,234 @@
+{
+    "serverName": "pale corpses",
+    "categories": [
+        {
+            "id": "1378137130290774219",
+            "name": "avvt",
+            "channels": [
+                {
+                    "id": "1378140058241990706",
+                    "name": "남성-명사",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1378140934075842682",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "READ_MESSAGE_HISTORY"
+                            ],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES",
+                                "SEND_TTS_MESSAGES",
+                                "MANAGE_MESSAGES",
+                                "EMBED_LINKS",
+                                "ATTACH_FILES",
+                                "MENTION_EVERYONE",
+                                "USE_EXTERNAL_EMOJIS",
+                                "MANAGE_THREADS",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "USE_EXTERNAL_STICKERS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        },
+                        {
+                            "id": "1378137129473015900",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1378140069445111828",
+                    "name": "여성",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1378140934075842682",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES",
+                                "MANAGE_MESSAGES",
+                                "EMBED_LINKS",
+                                "ATTACH_FILES",
+                                "MENTION_EVERYONE",
+                                "USE_EXTERNAL_EMOJIS",
+                                "MANAGE_THREADS",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "USE_EXTERNAL_STICKERS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        },
+                        {
+                            "id": "1378137129473015900",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1378140080786509918",
+                    "name": "아니메치",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1378140934075842682",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES",
+                                "EMBED_LINKS",
+                                "ATTACH_FILES",
+                                "MENTION_EVERYONE",
+                                "USE_EXTERNAL_EMOJIS",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "USE_EXTERNAL_STICKERS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        },
+                        {
+                            "id": "1378137129473015900",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1378137130290774220",
+            "name": "/",
+            "channels": [
+                {
+                    "id": "1378137130290774222",
+                    "name": "엘엠에이",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1378137129473015900",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": [
+                                "STREAM",
+                                "CONNECT",
+                                "SPEAK",
+                                "USE_SOUNDBOARD"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1378143851344298004",
+            "name": "ero",
+            "channels": [
+                {
+                    "id": "1378137130290774221",
+                    "name": "prr",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1378137129473015900",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1378171444269420665",
+            "name": "샤브",
+            "channels": [
+                {
+                    "id": "1378171697441804288",
+                    "name": "샤브",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1378140934075842682",
+                            "type": "role",
+                            "allow": [
+                                "STREAM",
+                                "VIEW_CHANNEL",
+                                "CONNECT",
+                                "SPEAK",
+                                "USE_VAD",
+                                "USE_SOUNDBOARD"
+                            ],
+                            "deny": [
+                                "MUTE_MEMBERS",
+                                "DEAFEN_MEMBERS",
+                                "MOVE_MEMBERS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        }
+    ],
+    "roles": [
+        {
+            "id": "1378140559771963432",
+            "name": "/",
+            "color": 197379,
+            "permissions": [
+                "ADMINISTRATOR"
+            ]
+        },
+        {
+            "id": "1378140934075842682",
+            "name": "lma",
+            "color": 16777215,
+            "permissions": []
+        },
+        {
+            "id": "1378148033291616386",
+            "name": "ангел",
+            "color": 16777215,
+            "permissions": []
+        },
+        {
+            "id": "1378148119782625421",
+            "name": "sage",
+            "color": 16777215,
+            "permissions": []
+        }
+    ]
+}
